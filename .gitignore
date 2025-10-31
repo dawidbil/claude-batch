@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Lint/Type check caches
+.ruff_cache/
+.mypy_cache/
+.basedpyright/
+.pytype/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# UV
+uv.lock.bak
+
+# Coverage reports
+coverage.xml
+
+# Local env files
+*.env
+*.env.*
